@@ -85,5 +85,6 @@ public class MySQLTableCreation {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+		
 	}
 }
