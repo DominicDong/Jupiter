@@ -95,9 +95,9 @@ public class TicketMasterAPI {
 	 */
 		
 	//  {
-	//    "name": "laioffer",
+	//    "name": "",
 	//    "id": "12345",
-	//    "url": "www.laioffer.com",
+	//    "url": "",
 	//    ...
 	//    "_embedded": {
 	//	    "venues": [
